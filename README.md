@@ -1,6 +1,6 @@
 # QRCapture
 
-![QRCapture](https://# "QRCapture")
+![QRCapture](https://github.com/zhanjiarong/QRCapture/blob/master/IMG_0187.PNG?raw=true "QRCapture")
 
 
 ## Overview
